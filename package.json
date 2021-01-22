@@ -1,0 +1,17 @@
+{
+  "name": "platforms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bowser": "^2.11.0",
+    "parcel-bundler": "^1.12.4",
+    "platform": "^1.3.6"
+  }
+}
